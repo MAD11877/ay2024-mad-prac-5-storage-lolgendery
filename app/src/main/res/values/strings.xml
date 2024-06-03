@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">madpractical3</string>
+    <string name="app_title">MAD Practical</string>
+    <string name="greeting_message">Hello World!</string>
+    <string name="lorem_ipsum">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua</string>
+    <string name="button_follow_text">Follow</string>
+    <string name="button_unfollow_text">Unfollow</string>
+    <string name="button_message_text">Message</string>
+</resources>
